@@ -1,6 +1,8 @@
 import React from "react"; //optional
+import playerData from "../data/playerData";
 
 function Player() {
+
   return (
     <article className="Player">
       <h1>
