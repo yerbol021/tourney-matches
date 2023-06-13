@@ -1,4 +1,4 @@
-{
+const playerData = {
   "Disguised Lizard": {
     gamerTag: "Disguised Lizard",
     firstName: "Daria ",
@@ -21,7 +21,7 @@
   },
   "IHasEyes": {
     gamerTag: "IHasEyes",
-    firstName:"Matteo",
+    firstName: "Matteo",
     lastName: "Wagstaff",
   },
   "Captain Slimy": {
@@ -34,4 +34,6 @@
     firstName: "Elliott",
     lastName: "Herrera",
   }
-}
+};
+
+export default playerData;

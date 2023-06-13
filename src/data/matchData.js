@@ -1,4 +1,4 @@
-[
+const matchData = [
   {
     matchNumber: 1,
     players: ["Disguised Lizard", "DrSpiteful"],
@@ -35,4 +35,6 @@
     winner: undefined,
     scoreDifference: undefined
   }
-]
+];
+
+export default matchData;
