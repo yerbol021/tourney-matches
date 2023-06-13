@@ -1,7 +1,7 @@
 import React from "react";
-import playerData from "../data/playerData";
-import matchData from "../data/matchData";
-import Player from "./Player";
+import matchData from '../data/matchData';
+import playerData from '../data/playerData';
+import { preparePlayerData, addWinsToPlayers } from '../helpers/playerHelpers';
 
 function PlayerList() {
   return (
